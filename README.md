@@ -1,4 +1,4 @@
 ## DIY - Terms of Service
 At the core of DIY, is a belief that creativity and knowledge should be open and free. We believe that the projects and inventions that are shared on DIY should be distributed and licensed in such a way that both protects the rights and privacy of the individual creator and ultimately contributes the most value to the larger community. Because of this, any and all works of authorship copyrightable by you and posted by you to DIY are submitted under the terms of a Creative Commons Attribution-ShareAlike 3.0 Unported license.
 
-Furthermore, our Terms of Service are available on within this public repository under a Creative Commons Attribution 3.0 Unported license where we fully encourage anyone from the community to use, fork, submit pull requests, and share feedback with us.
+Furthermore, our Terms of Service are available within this public repository under a Creative Commons Attribution 3.0 Unported license where we fully encourage anyone from the community to use, fork, submit pull requests, and share feedback with us.
